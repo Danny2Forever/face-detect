@@ -1,4 +1,4 @@
-# face-detect
+# Face-detection
 <p>For import library :</p>
 
 ```
