@@ -4,6 +4,7 @@
 ```
 pip install opencv-python
 pip install os-sys
+pip install scikit-image
 ```
 
 <p>Btw you can add more feature by loading .xml from OpenCV<br>
